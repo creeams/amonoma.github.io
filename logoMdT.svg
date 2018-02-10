@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 144" style="enable-background:new 0 0 256 144;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8E8E8E;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:11px;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#636363;}
+	.st6{font-size:9px;}
+	.st7{fill:#BFBEBE;}
+	.st8{fill:#666565;}
+	.st9{opacity:0.75;fill:#01739C;}
+	.st10{font-family:'Lato-Bold';}
+	.st11{font-size:20px;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<g id="Calque_2">
+	<rect x="2.4" y="38.5" class="st0" width="251.6" height="52.7"/>
+	<rect x="118" y="60.5" class="st1" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 119.0519 68.2983)" class="st2 st3">img</text>
+	<rect x="4.3" y="42.2" class="st1" width="47.3" height="8.7"/>
+	<text transform="matrix(1 0 0 1 5.9893 49.965)" class="st4 st2 st3">«citation»</text>
+	<rect x="115.8" y="5.5" class="st1" width="24.3" height="10.3"/>
+	<text transform="matrix(1 0 0 1 115.8337 11.8905)" class="st5 st2 st6">Menu</text>
+	<rect x="2.4" y="96.3" class="st7" width="251.6" height="47.7"/>
+	<rect x="4.3" y="99.2" class="st1" width="47.3" height="8.7"/>
+	<text transform="matrix(1 0 0 1 4.3335 106.965)" class="st4 st2 st3">Titre</text>
+	<rect x="6.3" y="128.2" class="st4" width="52" height="12.8"/>
+	<rect x="102" y="128.2" class="st4" width="52" height="12.8"/>
+	<rect x="198" y="128.2" class="st4" width="52" height="12.8"/>
+	<rect x="22.3" y="130.3" class="st1" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 23.3853 138.0646)" class="st8 st2 st3">img</text>
+	<rect x="118.2" y="130.3" class="st1" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 119.2902 138.0646)" class="st8 st2 st3">img</text>
+	<rect x="214" y="130.3" class="st1" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 215.0519 138.0646)" class="st8 st2 st3">img</text>
+</g>
+<g id="Calque_1">
+	<rect x="-0.3" class="st9" width="256.3" height="144"/>
+</g>
+<g id="Calque_3">
+	<rect x="30.7" y="28" class="st1" width="225.3" height="115.8"/>
+	<text transform="matrix(1 0 0 1 30.6667 42.8599)"><tspan x="0" y="0" class="st4 st10 st11">Projet :</tspan><tspan x="0" y="48" class="st4 st10 st11">Création d’un site vitrine</tspan><tspan x="0" y="72" class="st4 st10 st11">de stylisme d’intérieur</tspan></text>
+	<line class="st12" x1="2.3" y1="36.7" x2="25" y2="36.7"/>
+</g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 144" style="enable-background:new 0 0 256 144;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.66;}
+	.st1{fill:#8E8E8E;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{font-family:'MyriadPro-Regular';}
+	.st6{font-size:7px;}
+	.st7{font-size:6px;}
+	.st8{font-size:11px;}
+	.st9{opacity:0.75;fill:#01739C;}
+	.st10{font-family:'Lato-Bold';}
+	.st11{font-size:20px;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<g id="Calque_4">
+	<rect class="st0" width="256" height="144"/>
+</g>
+<g id="Calque_2">
+	<rect x="30.7" y="92.7" class="st1" width="60" height="23.7"/>
+	<rect x="98" y="83" class="st1" width="60" height="23.7"/>
+	<rect x="164.7" y="74" class="st1" width="60" height="23.7"/>
+	<rect x="30.7" y="116.3" class="st2" width="60" height="26"/>
+	<rect x="98" y="106.7" class="st2" width="60" height="35.7"/>
+	<rect x="164.7" y="97.7" class="st2" width="60" height="44.7"/>
+	<line class="st3" x1="25.2" y1="35" x2="230.8" y2="9.3"/>
+	<line class="st3" x1="25.2" y1="73.5" x2="230.8" y2="47.8"/>
+	<rect x="33.7" y="121" class="st4" width="44.7" height="7.7"/>
+	<text transform="matrix(1 0 0 1 33.6665 125.9697)" class="st5 st6">Titre de l’article</text>
+	<rect x="100.7" y="110.3" class="st4" width="44.7" height="7.7"/>
+	<text transform="matrix(1 0 0 1 100.6665 115.3031)" class="st5 st6">Titre de l’article</text>
+	<rect x="167.7" y="100.7" class="st4" width="44.7" height="7.7"/>
+	<text transform="matrix(1 0 0 1 167.6665 105.6364)" class="st5 st6">Titre de l’article</text>
+	<rect x="34.3" y="132" class="st4" width="49.3" height="8.3"/>
+	<text transform="matrix(1 0 0 1 34.3335 136.2598)" class="st5 st7">Lorem ipsum </text>
+	<rect x="101.7" y="124" class="st4" width="53" height="18.3"/>
+	<text transform="matrix(1 0 0 1 101.6665 128.2598)"><tspan x="0" y="0" class="st5 st7">Lorem ipsum dolor </tspan><tspan x="0" y="7.2" class="st5 st7">sit amet, </tspan></text>
+	<rect x="168.7" y="114" class="st4" width="52" height="26"/>
+	<text transform="matrix(1 0 0 1 168.667 118.2598)"><tspan x="0" y="0" class="st5 st7">Lorem ipsum dolor </tspan><tspan x="0" y="7.2" class="st5 st7">sit amet, </tspan><tspan x="0" y="14.4" class="st5 st7">consectetuer </tspan><tspan x="0" y="21.6" class="st5 st7">adipiscing elit, sed </tspan></text>
+	<rect x="101.7" y="30.7" class="st4" width="52.7" height="24.3"/>
+	<text transform="matrix(1 0 0 1 107.9028 38.4767)"><tspan x="0" y="0" class="st2 st5 st8">ZeShape</tspan><tspan x="-4.4" y="13.2" class="st2 st5 st8">Halloween</tspan></text>
+	<rect x="27.5" y="3.2" class="st2" width="6.3" height="6.3"/>
+	<rect x="40.7" y="46.3" class="st4" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 41.7186 54.1434)" class="st5 st8">img</text>
+	<rect x="50.7" y="100.2" class="st4" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 51.7186 107.9767)" class="st5 st8">img</text>
+	<rect x="118.2" y="90.5" class="st4" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 119.2186 98.3101)" class="st5 st8">img</text>
+	<rect x="184.7" y="81.3" class="st4" width="20" height="8.7"/>
+	<text transform="matrix(1 0 0 1 185.7186 89.0602)" class="st5 st8">img</text>
+</g>
+<g id="Calque_1">
+	<rect x="-0.3" class="st9" width="256.3" height="144"/>
+</g>
+<g id="Calque_3">
+	<rect x="30.7" y="28" class="st4" width="225.3" height="100.7"/>
+	<text transform="matrix(1 0 0 1 30.6667 42.8599)"><tspan x="0" y="0" class="st2 st10 st11">Projet :</tspan><tspan x="0" y="48" class="st2 st10 st11">Refonte de Blog </tspan><tspan x="0" y="72" class="st2 st10 st11">de cinéma</tspan></text>
+	<line class="st12" x1="2.3" y1="36.7" x2="25" y2="36.7"/>
+</g>
+</svg>
