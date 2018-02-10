@@ -1,7 +1,7 @@
 # amonoma.github.io
 
 
-This is our repository. Images and svg files are our creation but you're free to use them as long as you quote us as legitimate creators.
+Images and svg files in this repository are our creation but feel free to use them as long as you quote us as legitimate creators.
 
 Thanks for your understanding.
 
